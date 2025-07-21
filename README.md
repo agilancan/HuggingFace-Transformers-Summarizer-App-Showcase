@@ -27,6 +27,9 @@ The `google/pegasus-large` model was selected for its cutting-edge approach to a
 
 Unlike the default `sshleifer/distilbart-cnn-12-6` model, PEGASUS handles longer token sequences (up to 1024–2048 tokens) and provides more semantically rich summaries.
 
+<p align="center"><img src="assets/a2.PNG" width="1000"/></p>
+<p align="center"><img src="assets/a1.PNG" width="1000"/></p>
+
 ## ⚙️ Features
 
 - ✍️ Input free-form long text (e.g., news, articles, reports)
@@ -45,6 +48,8 @@ Unlike the default `sshleifer/distilbart-cnn-12-6` model, PEGASUS handles longer
 
 > "The Raptors are retaining coach Rajaković, citing his strong defensive schemes and potential despite recent losing seasons."
 
+<p align="center"><img src="assets/a3.PNG" width="1000"/></p>
+<p align="center"><img src="assets/a4.PNG" width="1000"/></p>
 ---
 
 ## 💡 Key Learnings
